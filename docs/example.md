@@ -11,7 +11,7 @@ brackets. For example, the mass of an object could be written as $m$ [kg].
 Quantities without units are followed by [-].
 
 The code for the example is available in the
-[examples folder](https://github.com/eagles-project/skywalker/tree/main/examples)
+[examples folder](https://github.com/E3SM-Project/skywalker/tree/main/examples)
 of the Skywalker source tree.
 
 We'll use Python to make a few plots along the way. We use Python 3 and the
@@ -302,7 +302,7 @@ Here's a plot of the resulting isotherms:
 ![Ideal gas law isotherms](images/ideal_gas_isotherms_c.png)
 
 If you want to generate this plot for yourself, run the
-[plot_isotherms.py](https://github.com/eagles-project/skywalker/tree/main/examples/plot_isotherms.py)
+[plot_isotherms.py](https://github.com/E3SM-Project/skywalker/tree/main/examples/plot_isotherms.py)
 script in the `examples/` folder of the repo on the appropriate `.py` file,
 leaving out the `.py` suffix. E.g.
 

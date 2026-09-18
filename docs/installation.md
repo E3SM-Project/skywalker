@@ -15,16 +15,16 @@ different Fortran compiler.
 
 ## Clone the Repository
 
-First, go get the [source code](https://github.com/eagles-project/skywalker)
+First, go get the [source code](https://github.com/E3SM-Project/skywalker)
 at GitHub:
 
 === "SSH"
     ```
-    git clone git@github.com:eagles-project/skywalker.git
+    git clone git@github.com:E3SM-Project/skywalker.git
     ```
 === "HTTPS"
     ```
-    git clone https://github.com/eagles-project/skywalker.git
+    git clone https://github.com/E3SM-Project/skywalker.git
     ```
 
 This places a `skywalker` folder into your current path. If you're using
