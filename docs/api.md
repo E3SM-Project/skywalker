@@ -251,8 +251,8 @@ Each of the essential concepts in the library has an associated type.
 Notice that many of the Fortran types are actually classes with bound
 procedures with implementations, indicated by the `procedure => implementation`
 ѕyntax. Below, we refer to the functions and subroutines that implement the
-procedures. The [examples](https://github.com/eagles-project/skywalker/tree/main/examples)
-and [tests](https://github.com/eagles-project/skywalker/tree/main/src/tests)
+procedures. The [examples](https://github.com/E3SM-Project/skywalker/tree/main/examples)
+and [tests](https://github.com/E3SM-Project/skywalker/tree/main/src/tests)
 illustrate how these procedures are invoked, as this syntax is unfortunately not
 very clear.
 
@@ -284,8 +284,8 @@ Instead, it directly returns the data requested, throwing an exception (of type
 `skywalker::Exception`, a subclass of `std::exception`) containing a string
 description if any issue occurs.
 
-The [examples](https://github.com/eagles-project/skywalker/tree/main/examples)
-and [tests](https://github.com/eagles-project/skywalker/tree/main/src/tests)
+The [examples](https://github.com/E3SM-Project/skywalker/tree/main/examples)
+and [tests](https://github.com/E3SM-Project/skywalker/tree/main/src/tests)
 in the repository demonstrate how these error handling mechanisms work in
 their respective languages.
 
@@ -538,8 +538,8 @@ on the input and output data for each member. The function you define takes a
     };
     ```
 
-The [examples](https://github.com/eagles-project/skywalker/tree/main/examples)
-and [tests](https://github.com/eagles-project/skywalker/tree/main/src/tests)
+The [examples](https://github.com/E3SM-Project/skywalker/tree/main/examples)
+and [tests](https://github.com/E3SM-Project/skywalker/tree/main/src/tests)
 illustrate how this is done.
 
 ### Reading input parameters

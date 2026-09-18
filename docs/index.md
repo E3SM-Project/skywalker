@@ -36,4 +36,4 @@ Research](https://science.osti.gov/ber) Program as part of the
 an effort to improve the treatment of aerosols in
 [E3SM](https://climatemodeling.science.energy.gov/projects/energy-exascale-earth-system-model),
 the Department of Energy's global climate model. The source code is available on
-[GitHub](https://github.com/eagles-project/skywalker).
+[GitHub](https://github.com/E3SM-Project/skywalker).
